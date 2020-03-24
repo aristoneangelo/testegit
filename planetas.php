@@ -1,3 +1,2 @@
 <?php 
-
-echo "estou indo bem";
+echo "agora está mudado";
